@@ -1,4 +1,4 @@
-SunSpotPuzzle Rails Server
+# SunSpotPuzzle Rails Server
 ==========================
 
 The rails (http-)server for the SunSpot puzzle.
@@ -6,7 +6,7 @@ The rails (http-)server for the SunSpot puzzle.
 For instructions have a look at the github wiki (http://github.com/lukaselmer/sun_spot_puzzle/wiki).
 
 
-Setup
+# Setup
 =====
 
 * Install ruby/rails (version 2.3.8)
